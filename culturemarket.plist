@@ -46,7 +46,7 @@
           <string>software</string>
           <!-- required.the title to display during the download.-->
           <key>title</key>
-          <string>CCC</string>
+          <string>文化共享超市</string>
         </dict>
       </dict>
     </array>
