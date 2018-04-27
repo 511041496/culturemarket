@@ -37,7 +37,7 @@
         <dict>
           <!-- required -->
           <key>bundle-identifier</key>
-          <string>com.bj.culture.cloud</string>
+          <string>com.bj.culture.cloud.test</string>
           <!-- optional (software only) -->
           <key>bundle-version</key>
           <string>1.0</string>
